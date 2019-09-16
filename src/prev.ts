@@ -1,3 +1,3 @@
-export const prev = (x: number) => {
+export const prev = (x: number): number => {
   return x - 1;
 };

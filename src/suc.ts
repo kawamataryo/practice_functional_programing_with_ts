@@ -1,3 +1,3 @@
-export const suc = (x: number) => {
+export const suc = (x: number): number => {
   return x + 1;
 };
