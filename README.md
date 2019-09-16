@@ -1,0 +1,2 @@
+# practice_functional_programing_with_ts
+関数型プログラミングをTS、JSで学ぶ
