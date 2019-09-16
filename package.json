@@ -18,7 +18,8 @@
     "typescript": "^3.6.3"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint src/**/*.ts tests/**/*.ts"
   },
   "jest": {
     "moduleFileExtensions": [
