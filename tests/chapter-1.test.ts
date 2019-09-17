@@ -24,4 +24,5 @@ describe("chapter 1", () => {
   test("multiply", () => {
     expect(multiply(2, 5)).toBe(10);
   });
+
 });
